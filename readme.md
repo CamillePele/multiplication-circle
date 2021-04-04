@@ -1,5 +1,5 @@
 # Multiplication Circle
-![Exemple render](https://medias.andromede.pics/img/85746320-957d-11.gif)
+
 Hi! I did this project in first point to learn pygames, this is not a perfect code.
 
 
